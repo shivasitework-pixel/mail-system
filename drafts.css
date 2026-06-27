@@ -1,0 +1,45 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+}
+
+body{
+background:#eef2f7;
+padding:40px;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+}
+
+h1{
+margin-bottom:25px;
+color:#2563eb;
+}
+
+.mail{
+background:#fff;
+padding:20px;
+margin-bottom:15px;
+border-radius:12px;
+box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+.mail strong{
+display:block;
+margin-bottom:8px;
+font-size:18px;
+}
+
+.mail p{
+margin-bottom:10px;
+color:#555;
+}
+
+.mail span{
+font-size:14px;
+color:#888;
+}
