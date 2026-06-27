@@ -1,1 +1,1 @@
-console.log("Dashboard Loaded");
+console.log("Shiva Mail Dashboard Loaded");
